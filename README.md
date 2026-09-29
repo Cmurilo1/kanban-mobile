@@ -7,7 +7,7 @@ App de quadro Kanban estilo Trello feito em React Native + Expo. Feito do zero p
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 🔗 Repositório: https://github.com/Cmurilo1/kanban-mobile
-
+🌐 Demo ao vivo (Web Vercel): https://kanban-mobile-sy1h2nfm7-cmurilo1s-projects.vercel.app
 ### ✨ Funcionalidades
 
 - ✅ Criar tarefas novas
