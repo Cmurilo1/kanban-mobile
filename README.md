@@ -9,7 +9,15 @@ App de tarefas no celular.
 https://github.com/Cmurilo1/kanban-mobile
 
 🌐 Demo ao vivo (Web Vercel):
-https://kanban-mobile-cmurilo1s-projects.vercel.app
+https://kanban-mobile-two.vercel.app
+
+## 📱 Teste no celular
+
+Escaneie o QR Code:
+
+<img src="./assets/qrcode.png" width="200" />
+
+Ou acesse: https://kanban-mobile-two.vercel.app
 
 - ✅ Criar tarefas novas
 - ➡️ Mover entre colunas: A Fazer → Fazendo → Feito
